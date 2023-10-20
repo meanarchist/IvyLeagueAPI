@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Harvard University",
+    "latitude": 42.373611,
+    "longitude": -71.109733
+  },
+  {
+    "name": "Yale University",
+    "latitude": 41.311184,
+    "longitude": -72.926604
+  },
+  {
+    "name": "Princeton University",
+    "latitude": 40.344963,
+    "longitude": -74.655238
+  },
+  {
+    "name": "Columbia University",
+    "latitude": 40.807535,
+    "longitude": -73.962572
+  },
+  {
+    "name": "Cornell University",
+    "latitude": 42.453449,
+    "longitude": -76.473502
+  },
+  {
+    "name": "Dartmouth College",
+    "latitude": 43.7044,
+    "longitude": -72.2887
+  },
+  {
+    "name": "University of Pennsylvania",
+    "latitude": 39.952583,
+    "longitude": -75.190216
+  },
+  {
+    "name": "Brown University",
+    "latitude": 41.8262,
+    "longitude": -71.4034
+  }
+]
